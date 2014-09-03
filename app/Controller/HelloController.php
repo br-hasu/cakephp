@@ -11,7 +11,7 @@ class HelloController extends AppController
      * indexアクション
      */
     public function index() {
-        echo "CakePhp !!!!";
+        echo "This is マリアプレアです!!";
     }
 }
-
+?>
